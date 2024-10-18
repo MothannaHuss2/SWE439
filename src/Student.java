@@ -3,6 +3,9 @@ public class Student {
     private String major;
     private int creditHours;
 
+
+    
+
     public double getGpa() {
         return this.gpa;
     }
